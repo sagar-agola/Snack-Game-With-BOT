@@ -1,0 +1,10 @@
+C:\Users\N3o\source\repos\SnackGame\SnackGame\bin\Debug\SnackGame.exe.config
+C:\Users\N3o\source\repos\SnackGame\SnackGame\bin\Debug\SnackGame.exe
+C:\Users\N3o\source\repos\SnackGame\SnackGame\bin\Debug\SnackGame.pdb
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.csprojResolveAssemblyReference.cache
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.Snacker.resources
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.Properties.Resources.resources
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.csproj.GenerateResource.Cache
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.csproj.CoreCompileInputs.cache
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.exe
+C:\Users\N3o\source\repos\SnackGame\SnackGame\obj\Debug\SnackGame.pdb
